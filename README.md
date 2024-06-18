@@ -20,6 +20,8 @@ Reading books 📖
 Continuously learning new things 🧠
 
 Feel free to check out my projects and repositories!
+
+📫 reach me on Hamzamrbek@gmail.com
 <!--
 **Hamza-Bek/Hamza-Bek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
