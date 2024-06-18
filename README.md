@@ -16,7 +16,9 @@ Currently studying Business Management to complement my technical skills and enh
 📚 Hobbies:
 
 Reading books 📖
+
 Continuously learning new things 🧠
+
 Feel free to check out my projects and repositories!
 <!--
 **Hamza-Bek/Hamza-Bek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
