@@ -82,7 +82,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Bek&show_icons=true&theme=radical&hide_title=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Bek&theme=radical" height="150"/>
+<!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Bek&theme=radical" height="150"/>-->
 
 </div>
 
