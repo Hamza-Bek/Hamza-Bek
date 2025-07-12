@@ -45,7 +45,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 - 🧑‍💻 .NET & Blazor Developer  
 - 🌍 I build responsive web apps with a focus on performance  
