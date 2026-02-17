@@ -64,16 +64,14 @@
 
 ---
 
-### 📜 Currently Preparing For
+### 📜 Certifications
+<p align="center"> <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20%7C%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Badge" /> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20%7C%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Badge" />
-</p>
+☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
 
-- 🌐 **AZ-900: Microsoft Azure Fundamentals**
-  - ☁️ Learning core Azure services, security, governance, and pricing
-  - 📘 Exploring Azure Cost Management, Azure Advisor, and cloud concepts
-  - 🛠 Practicing with Microsoft Learn, labs, and sandbox environments
+🌐 Solid understanding of Azure core services, security, governance, and pricing models
+
+📊 Experience with Azure Cost Management, Advisor, and cloud architecture fundamentals
 
 ---
 
