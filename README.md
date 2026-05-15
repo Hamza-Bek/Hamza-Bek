@@ -100,7 +100,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   
-<a href="https://drive.google.com/file/d/1lkixXZJ48cG4k6LKvAPaaAVMmJgA5OFG/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1tN5itmgcHyo_StO-AAcuapKZos2c4KYm/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/My%20CV-239120?style=for-the-badge&logo=readcv&logoColor=white" alt="Download CV Badge" />
 </a>
 
